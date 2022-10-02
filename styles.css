@@ -55,3 +55,12 @@ button {
 	background-color: grey;
 	padding: 5px;
 }
+
+button:hover {
+	color: grey;
+	background-color: black;
+}
+
+button:active {
+	background-color: aliceblue;
+}
